@@ -1,5 +1,12 @@
 # Italy-territorial-administration-dataset
 
+Italian territorial and administrative subdivision dataset
+(CAP-CITY) -> PROVINCE -> REGION
+
+The dataset is available in:
+Excel
+SQL
+... more coming soon
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
