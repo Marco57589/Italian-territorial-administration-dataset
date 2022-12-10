@@ -7,6 +7,7 @@ The dataset is available in:
 - XLSX <br />
 - CSV <br />
 - JSON <br />
+- XML <br />
 - ... more coming soon<br />
 
 
