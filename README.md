@@ -9,7 +9,7 @@ The dataset is available in:
 - JSON <br />
 - XML <br />
 - PDF <br />
-- ... more coming soon<br />
+- ... SQL coming soon<br />
 
 
 Note: some zip codes are not in the dataset and have been marked as NULL (these will be updated in the future)
