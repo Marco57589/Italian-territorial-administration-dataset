@@ -4,9 +4,9 @@ Italian territorial and administrative subdivision dataset
 (CAP-CITY) -> PROVINCE -> REGION
 
 The dataset is available in:
-> Excel 'XLSX'.
-> CSV 'Coma Separated Values'.
-> ... more coming soon.
+> Excel 'XLSX'<br />
+> CSV 'Coma Separated Values'<br />
+> ... more coming soon<br />
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
