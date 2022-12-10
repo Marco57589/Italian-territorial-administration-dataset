@@ -1,4 +1,4 @@
-# Italy-territorial-administration-dataset
+# Italian-territorial-administration-dataset
 
 Italian territorial and administrative subdivision dataset
 (CAP-CITY) -> PROVINCE -> REGION
