@@ -140,7 +140,7 @@ Albuzzano,27010,Pavia,PV,Lombardia
 Alcamo,91011,Trapani,TP,Sicilia
 Alcara li Fusi,98070,Messina,ME,Sicilia
 Aldeno,38060,Trento,TN,Trentino-Alto Adige
-Aldino / Aldein,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Aldino / Aldein,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Ales,9091,Oristano,OR,Sardegna
 Alessandria,15100,Alessandria,AL,Piemonte
 Alessandria del Carretto,87070,Cosenza,CS,Calabria
@@ -233,7 +233,7 @@ Andrate,10010,Torino,TO,Piemonte
 Andreis,33080,Pordenone,PN,Friuli-Venezia Giulia
 Andretta,83040,Avellino,AV,Campania
 Andria,70031,Barletta-Andria-Trani,BT,Puglia
-Andriano / Andrian,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Andriano / Andrian,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Anela,7010,Sassari,SS,Sardegna
 Anfo,25070,Brescia,BS,Lombardia
 Angera,21021,Varese,VA,Lombardia
@@ -249,7 +249,7 @@ Annone di Brianza,23841,Lecco,LC,Lombardia
 Annone Veneto,30020,Venezia,VE,Veneto
 Anoia,89020,Reggio di Calabria,RC,Calabria
 Antegnate,24051,Bergamo,BG,Lombardia
-Anterivo / Altrei,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Anterivo / Altrei,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Antey-Saint-Andrè,null,Valle d'Aosta / Vallée d'Aoste,AO,Valle d'Aosta
 Anticoli Corrado,22,Roma,RM,Lazio
 Antignano,57128,Asti,AT,Piemonte
@@ -270,7 +270,7 @@ Apice,82021,Benevento,BN,Campania
 Apiro,62021,Macerata,MC,Marche
 Apollosa,82030,Benevento,BN,Campania
 Appiano Gentile,22070,Como,CO,Lombardia
-Appiano sulla strada del vino / Eppan an der Weinstrasse,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Appiano sulla strada del vino / Eppan an der Weinstrasse,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Appignano,64030,Macerata,MC,Marche
 Appignano del Tronto,63031,Ascoli Piceno,AP,Marche
 Aprica,23031,Sondrio,SO,Lombardia
@@ -408,7 +408,7 @@ Auronzo di Cadore,32041,Belluno,BL,Veneto
 Ausonia,3040,Frosinone,FR,Lazio
 Austis,8030,Nuoro,NU,Sardegna
 Avegno,16030,Genova,GE,Liguria
-Avelengo / Hafling,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Avelengo / Hafling,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Avella,83021,Avellino,AV,Campania
 Avellino,83100,Avellino,AV,Campania
 Averara,24010,Bergamo,BG,Lombardia
@@ -439,7 +439,7 @@ Baceno,28861,Verbano-Cusio-Ossola,VB,Piemonte
 Bacoli,80070,Napoli,NA,Campania
 Badalucco,18010,Imperia,IM,Liguria
 Badesi,7030,Olbia-Tempio,OT,Sardegna
-Badia / Abtei,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Badia / Abtei,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Badia Calavena,37030,Verona,VR,Veneto
 Badia Pavese,27010,Pavia,PV,Lombardia
 Badia Polesine,45021,Rovigo,RO,Veneto
@@ -512,7 +512,7 @@ Barbata,24040,Bergamo,BG,Lombardia
 Barberino di Mugello,50031,Firenze,FI,Toscana
 Barberino Val d'Elsa,50021,Firenze,FI,Toscana
 Barbianello,27041,Pavia,PV,Lombardia
-Barbiano / Barbian,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Barbiano / Barbian,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Barbona,35040,Padova,PD,Veneto
 Barcellona Pozzo di Gotto,98051,Messina,ME,Sicilia
 Barchi,61040,Pesaro e Urbino,PU,Marche
@@ -749,7 +749,7 @@ Bolognola,62035,Macerata,MC,Marche
 Bolotana,8011,Nuoro,NU,Sardegna
 Bolsena,1023,Viterbo,VT,Lazio
 Boltiere,24040,Bergamo,BG,Lombardia
-Bolzano / Bozen,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Bolzano / Bozen,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Bolzano Novarese,28010,Novara,NO,Piemonte
 Bolzano Vicentino,36050,Vicenza,VI,Veneto
 Bomarzo,1020,Viterbo,VT,Lazio
@@ -876,7 +876,7 @@ Bra,12042,Cuneo,CN,Piemonte
 Bracca,24010,Bergamo,BG,Lombardia
 Bracciano,62,Roma,RM,Lazio
 Bracigliano,84082,Salerno,SA,Campania
-Braies / Prags,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Braies / Prags,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Brallo di Pregola,27050,Pavia,PV,Lombardia
 Brancaleone,89036,Reggio di Calabria,RC,Calabria
 Brandico,25030,Brescia,BS,Lombardia
@@ -897,7 +897,7 @@ Brembio,26822,Lodi,LO,Lombardia
 Breme,27020,Pavia,PV,Lombardia
 Brendola,36040,Vicenza,VI,Veneto
 Brenna,22040,Como,CO,Lombardia
-Brennero / Brenner,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Brennero / Brenner,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Breno,25043,Brescia,BS,Lombardia
 Brenta,21030,Varese,VA,Lombardia
 Brentino Belluno,37020,Verona,VR,Veneto
@@ -907,7 +907,7 @@ Brescello,42041,Reggio nell'Emilia,RE,Emilia-Romagna
 Brescia,25100,Brescia,BS,Lombardia
 Bresimo,38020,Trento,TN,Trentino-Alto Adige
 Bressana Bottarone,27042,Pavia,PV,Lombardia
-Bressanone / Brixen,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Bressanone / Brixen,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Bressanvido,36050,Vicenza,VI,Veneto
 Bresso,20091,Milano,MI,Lombardia
 Brez,38021,Trento,TN,Trentino-Alto Adige
@@ -940,7 +940,7 @@ Brolo,98061,Messina,ME,Sicilia
 Brondello,12030,Cuneo,CN,Piemonte
 Broni,27043,Pavia,PV,Lombardia
 Bronte,95034,Catania,CT,Sicilia
-Bronzolo / Branzoll,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Bronzolo / Branzoll,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Brossasco,12020,Cuneo,CN,Piemonte
 Brosso,10080,Torino,TO,Piemonte
 Brovello-Carpugnino,null,Verbano-Cusio-Ossola,VB,Piemonte
@@ -953,7 +953,7 @@ Bruino,10090,Torino,TO,Piemonte
 Brumano,24037,Bergamo,BG,Lombardia
 Brunate,22034,Como,CO,Lombardia
 Brunello,21020,Varese,VA,Lombardia
-Brunico / Bruneck,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Brunico / Bruneck,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Bruno,14046,Asti,AT,Piemonte
 Brusaporto,24060,Bergamo,BG,Lombardia
 Brusasco,10020,Torino,TO,Piemonte
@@ -1044,7 +1044,7 @@ Cagnò,22070,Trento,TN,Trentino-Alto Adige
 Cagno,22070,Como,CO,Lombardia
 Caianello,81059,Caserta,CE,Campania
 Caiazzo,81013,Caserta,CE,Campania
-Caines / Kuens,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Caines / Kuens,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Caino,25070,Brescia,BS,Lombardia
 Caiolo,23010,Sondrio,SO,Lombardia
 Cairano,83040,Avellino,AV,Campania
@@ -1073,7 +1073,7 @@ Calcinate,24050,Bergamo,BG,Lombardia
 Calcinato,25011,Brescia,BS,Lombardia
 Calcio,24054,Bergamo,BG,Lombardia
 Calco,23885,Lecco,LC,Lombardia
-Caldaro sulla strada del vino / Kaltern an der Weinstrasse,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Caldaro sulla strada del vino / Kaltern an der Weinstrasse,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Caldarola,62020,Macerata,MC,Marche
 Calderara di Reno,40012,Bologna,BO,Emilia-Romagna
 Caldes,38022,Trento,TN,Trentino-Alto Adige
@@ -1168,11 +1168,11 @@ Campitello di Fassa,38031,Trento,TN,Trentino-Alto Adige
 Campli,64012,Teramo,TE,Abruzzo
 Campo Calabro,89052,Reggio di Calabria,RC,Calabria
 Campo di Giove,67030,L'Aquila,AQ,Abruzzo
-Campo di Trens / Freienfeld,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Campo di Trens / Freienfeld,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Campo Ligure,16013,Genova,GE,Liguria
 Campo nell'Elba,57034,Livorno,LI,Toscana
 Campo San Martino,35010,Padova,PD,Veneto
-Campo Tures / Sand in Taufers,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Campo Tures / Sand in Taufers,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Campobasso,86100,Campobasso,CB,Molise
 Campobello di Licata,92023,Agrigento,AG,Sicilia
 Campobello di Mazara,91021,Trapani,TP,Sicilia
@@ -1632,7 +1632,7 @@ Castel Volturno,81030,Caserta,CE,Campania
 Castelbaldo,35040,Padova,PD,Veneto
 Castelbelforte,46032,Mantova,MN,Lombardia
 Castelbellino,60030,Ancona,AN,Marche
-Castelbello-Ciardes / Kastelbell-Tschars,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Castelbello-Ciardes / Kastelbell-Tschars,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Castelbianco,17030,Savona,SV,Liguria
 Castelbottaccio,86030,Campobasso,CB,Molise
 Castelbuono,90013,Palermo,PA,Sicilia
@@ -1756,7 +1756,7 @@ Castelpizzuto,86090,Isernia,IS,Molise
 Castelplanio,60031,Ancona,AN,Marche
 Castelpoto,82030,Benevento,BN,Campania
 Castelraimondo,62022,Macerata,MC,Marche
-Castelrotto / Kastelruth,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Castelrotto / Kastelruth,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Castelsantangelo sul Nera,62039,Macerata,MC,Marche
 Castelsaraceno,85031,Potenza,PZ,Basilicata
 Castelsardo,7031,Sassari,SS,Sardegna
@@ -1958,7 +1958,7 @@ Cerignale,29020,Piacenza,PC,Emilia-Romagna
 Cerignola,71042,Foggia,FG,Puglia
 Cerisano,87044,Cosenza,CS,Calabria
 Cermenate,22072,Como,CO,Lombardia
-Cermes / Tscherms,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Cermes / Tscherms,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Cermignano,64037,Teramo,TE,Abruzzo
 Cernobbio,22012,Como,CO,Lombardia
 Cernusco Lombardone,23870,Lecco,LC,Lombardia
@@ -2050,7 +2050,7 @@ Chiauci,86097,Isernia,IS,Molise
 Chiavari,16043,Genova,GE,Liguria
 Chiavenna,23022,Sondrio,SO,Lombardia
 Chiaverano,10010,Torino,TO,Piemonte
-Chienes / Kiens,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Chienes / Kiens,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Chieri,10023,Torino,TO,Piemonte
 Chies d'Alpago,32010,Belluno,BL,Veneto
 Chiesa in Valmalenco,23023,Sondrio,SO,Lombardia
@@ -2069,7 +2069,7 @@ Chitignano,52010,Arezzo,AR,Toscana
 Chiuduno,24060,Bergamo,BG,Lombardia
 Chiuppano,36010,Vicenza,VI,Veneto
 Chiuro,23030,Sondrio,SO,Lombardia
-Chiusa / Klausen,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Chiusa / Klausen,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Chiusa di Pesio,null,Cuneo,CN,Piemonte
 Chiusa di San Michele,null,Torino,TO,Piemonte
 Chiusa Sclafani,90033,Palermo,PA,Sicilia
@@ -2351,7 +2351,7 @@ Cornalba,24017,Bergamo,BG,Lombardia
 Cornale,24020,Pavia,PV,Lombardia
 Cornaredo,20010,Milano,MI,Lombardia
 Cornate d'Adda,20040,Monza e della Brianza,MB,Lombardia
-Cornedo all'Isarco / Karneid,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Cornedo all'Isarco / Karneid,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Cornedo Vicentino,36073,Vicenza,VI,Veneto
 Cornegliano Laudense,26854,Lodi,LO,Lombardia
 Corneliano d'Alba,12040,Cuneo,CN,Piemonte
@@ -2369,7 +2369,7 @@ Corropoli,64013,Teramo,TE,Abruzzo
 Corsano,53010,Lecce,LE,Puglia
 Corsico,20094,Milano,MI,Lombardia
 Corsione,14020,Asti,AT,Piemonte
-Cortaccia sulla strada del vino / Kurtatsch an der Weinstrasse,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Cortaccia sulla strada del vino / Kurtatsch an der Weinstrasse,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Cortale,88024,Catanzaro,CZ,Calabria
 Cortandone,14013,Asti,AT,Piemonte
 Cortanze,14020,Asti,AT,Piemonte
@@ -2387,11 +2387,11 @@ Cortenuova,24050,Bergamo,BG,Lombardia
 Corteolona,27014,Pavia,PV,Lombardia
 Cortiglione,14045,Asti,AT,Piemonte
 Cortina d'Ampezzo,32043,Belluno,BL,Veneto
-Cortina sulla strada del vino / Kurtinig an der Weinstrasse,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Cortina sulla strada del vino / Kurtinig an der Weinstrasse,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Cortino,64040,Teramo,TE,Abruzzo
 Cortona,52044,Arezzo,AR,Toscana
 Corvara,39033,Pescara,PE,Abruzzo
-Corvara in Badia / Corvara,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Corvara in Badia / Corvara,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Corvino San Quirico,27050,Pavia,PV,Lombardia
 Corzano,25030,Brescia,BS,Lombardia
 Coseano,33030,Udine,UD,Friuli-Venezia Giulia
@@ -2499,7 +2499,7 @@ Curiglia con Monteviasco,21010,Varese,VA,Lombardia
 Curinga,88022,Catanzaro,CZ,Calabria
 Curino,13865,Biella,BI,Piemonte
 Curno,24035,Bergamo,BG,Lombardia
-Curon Venosta / Graun im Vinschgau,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Curon Venosta / Graun im Vinschgau,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Cursi,73020,Lecce,LE,Puglia
 Cursolo-Orasso,null,Verbano-Cusio-Ossola,VB,Piemonte
 Curtarolo,35010,Padova,PD,Veneto
@@ -2564,7 +2564,7 @@ Dipignano,87045,Cosenza,CS,Calabria
 Diso,73030,Lecce,LE,Puglia
 Divignano,28010,Novara,NO,Piemonte
 Dizzasco,22020,Como,CO,Lombardia
-Dobbiaco / Toblach,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Dobbiaco / Toblach,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Doberdò del Lago,null,Gorizia,GO,Friuli-Venezia Giulia
 Dogliani,12063,Cuneo,CN,Piemonte
 Dogliola,66050,Chieti,CH,Abruzzo
@@ -2625,7 +2625,7 @@ Duronia,86020,Campobasso,CB,Molise
 Dusino San Michele,14010,Asti,AT,Piemonte
 Eboli,84025,Salerno,SA,Campania
 Edolo,25048,Brescia,BS,Lombardia
-Egna / Neumarkt,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Egna / Neumarkt,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Elice,65010,Pescara,PE,Abruzzo
 Elini,8040,Ogliastra,OG,Sardegna
 Ello,23848,Lecco,LC,Lombardia
@@ -2697,7 +2697,7 @@ Fallo,66040,Chieti,CH,Abruzzo
 Falmenta,28825,Verbano-Cusio-Ossola,VB,Piemonte
 Faloppio,22020,Como,CO,Lombardia
 Falvaterra,3020,Frosinone,FR,Lazio
-Falzes / Pfalzen,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Falzes / Pfalzen,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Fanano,41021,Modena,MO,Emilia-Romagna
 Fanna,33092,Pordenone,PN,Friuli-Venezia Giulia
 Fano,61032,Pesaro e Urbino,PU,Marche
@@ -2763,7 +2763,7 @@ Ficarolo,45036,Rovigo,RO,Veneto
 Ficarra,98062,Messina,ME,Sicilia
 Ficulle,5016,Terni,TR,Umbria
 Fidenza,43036,Parma,PR,Emilia-Romagna
-Fiè allo Sciliar / Völs am Schlern,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Fiè allo Sciliar / Völs am Schlern,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Fiera di Primiero,38054,Trento,TN,Trentino-Alto Adige
 Fierozzo,38050,Trento,TN,Trentino-Alto Adige
 Fiesco,26010,Cremona,CR,Lombardia
@@ -2890,7 +2890,7 @@ Forno di Zoldo,32012,Belluno,BL,Veneto
 Fornovo di Taro,43045,Parma,PR,Emilia-Romagna
 Fornovo San Giovanni,24040,Bergamo,BG,Lombardia
 Forte dei Marmi,55042,Lucca,LU,Toscana
-Fortezza / Franzensfeste,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Fortezza / Franzensfeste,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Fortunago,27040,Pavia,PV,Lombardia
 Forza d'Agrò,null,Messina,ME,Sicilia
 Fosciandora,55020,Lucca,LU,Toscana
@@ -2964,7 +2964,7 @@ Fucecchio,50054,Firenze,FI,Toscana
 Fuipiano Valle Imagna,null,Bergamo,BG,Lombardia
 Fumane,37022,Verona,VR,Veneto
 Fumone,3010,Frosinone,FR,Lazio
-Funes / Villnoess,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Funes / Villnoess,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Furci,66050,Chieti,CH,Abruzzo
 Furci Siculo,98023,Messina,ME,Sicilia
 Furnari,98054,Messina,ME,Sicilia
@@ -2995,7 +2995,7 @@ Gaiba,45030,Rovigo,RO,Veneto
 Gaiola,12010,Cuneo,CN,Piemonte
 Gaiole in Chianti,53013,Siena,SI,Toscana
 Gairo,8040,Ogliastra,OG,Sardegna
-Gais / Gais,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Gais / Gais,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Galati Mamertino,98070,Messina,ME,Sicilia
 Galatina,73013,Lecce,LE,Puglia
 Galatone,73044,Lecce,LE,Puglia
@@ -3046,7 +3046,7 @@ Gardone Riviera,25083,Brescia,BS,Lombardia
 Gardone Val Trompia,25063,Brescia,BS,Lombardia
 Garessio,null,Cuneo,CN,Piemonte
 Gargallo,28010,Novara,NO,Piemonte
-Gargazzone / Gargazon,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Gargazzone / Gargazon,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Gargnano,25084,Brescia,BS,Lombardia
 Garlasco,27026,Pavia,PV,Lombardia
 Garlate,23852,Lecco,LC,Lombardia
@@ -3172,7 +3172,7 @@ Giustino,38086,Trento,TN,Trentino-Alto Adige
 Giusvalla,17010,Savona,SV,Liguria
 Givoletto,10040,Torino,TO,Piemonte
 Gizzeria,88040,Catanzaro,CZ,Calabria
-Glorenza / Glurns,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Glorenza / Glurns,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Godega di Sant'Urbano,null,Treviso,TV,Veneto
 Godiasco,27052,Pavia,PV,Lombardia
 Godrano,90030,Palermo,PA,Sicilia
@@ -3428,14 +3428,14 @@ La Morra,12064,Cuneo,CN,Piemonte
 La Salle,11015,Valle d'Aosta / Vallée d'Aoste,AO,Valle d'Aosta
 La Spezia,19100,La Spezia,SP,Liguria
 La Thuile,11016,Valle d'Aosta / Vallée d'Aoste,AO,Valle d'Aosta
-La Valle / Wengen,null,Bolzano / Bozen,null,Trentino-Alto Adige
+La Valle / Wengen,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 La Valle Agordina,32020,Belluno,BL,Veneto
 Labico,30,Roma,RM,Lazio
 Labro,2010,Rieti,RI,Lazio
 Lacchiarella,20084,Milano,MI,Lombardia
 Lacco Ameno,80076,Napoli,NA,Campania
 Lacedonia,83046,Avellino,AV,Campania
-Laces / Latsch,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Laces / Latsch,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Laconi,8034,Oristano,OR,Sardegna
 Ladispoli,55,Roma,RM,Lazio
 Laerru,7030,Sassari,SS,Sardegna
@@ -3446,14 +3446,14 @@ Lagnasco,12030,Cuneo,CN,Piemonte
 Lago,31020,Cosenza,CS,Calabria
 Lagonegro,85042,Potenza,PZ,Basilicata
 Lagosanto,44023,Ferrara,FE,Emilia-Romagna
-Lagundo / Algund,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Lagundo / Algund,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Laigueglia,17053,Savona,SV,Liguria
 Lainate,20020,Milano,MI,Lombardia
 Laino,22020,Como,CO,Lombardia
 Laino Borgo,87014,Cosenza,CS,Calabria
 Laino Castello,87015,Cosenza,CS,Calabria
-Laion / Lajen,null,Bolzano / Bozen,null,Trentino-Alto Adige
-Laives / Leifers,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Laion / Lajen,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
+Laives / Leifers,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Lajatico,56030,Pisa,PI,Toscana
 Lallio,24040,Bergamo,BG,Lombardia
 Lama dei Peligni,66010,Chieti,CH,Abruzzo
@@ -3464,7 +3464,7 @@ Lamon,32033,Belluno,BL,Veneto
 Lampedusa e Linosa,null,Agrigento,AG,Sicilia
 Lamporecchio,51035,Pistoia,PT,Toscana
 Lamporo,13046,Vercelli,VC,Piemonte
-Lana / Lana,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Lana / Lana,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Lanciano,66034,Chieti,CH,Abruzzo
 Landiona,28064,Novara,NO,Piemonte
 Landriano,27015,Pavia,PV,Lombardia
@@ -3485,7 +3485,7 @@ Lari,56035,Pisa,PI,Toscana
 Lariano,40,Roma,RM,Lazio
 Larino,86035,Campobasso,CB,Molise
 Las Plassas,9020,Medio Campidano,VS,Sardegna
-Lasa / Laas,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Lasa / Laas,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Lascari,90010,Palermo,PA,Sicilia
 Lasino,38076,Trento,TN,Trentino-Alto Adige
 Lasnigo,22030,Como,CO,Lombardia
@@ -3502,7 +3502,7 @@ Lattarico,87010,Cosenza,CS,Calabria
 Lauco,33029,Udine,UD,Friuli-Venezia Giulia
 Laureana Cilento,84050,Salerno,SA,Campania
 Laureana di Borrello,89023,Reggio di Calabria,RC,Calabria
-Lauregno / Laurein,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Lauregno / Laurein,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Laurenzana,85014,Potenza,PZ,Basilicata
 Lauria,null,Potenza,PZ,Basilicata
 Lauriano,10020,Torino,TO,Piemonte
@@ -3718,7 +3718,7 @@ Lusevera,33010,Udine,UD,Friuli-Venezia Giulia
 Lusia,45020,Rovigo,RO,Veneto
 Lusiana,36046,Vicenza,VI,Veneto
 Lusigliè,null,Torino,TO,Piemonte
-Luson / Luesen,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Luson / Luesen,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Lustra,84050,Salerno,SA,Campania
 Luvinate,21020,Varese,VA,Lombardia
 Luzzana,24069,Bergamo,BG,Lombardia
@@ -3767,7 +3767,7 @@ Magnago,20020,Milano,MI,Lombardia
 Magnano,13887,Biella,BI,Piemonte
 Magnano in Riviera,33010,Udine,UD,Friuli-Venezia Giulia
 Magomadas,8010,Oristano,OR,Sardegna
-Magrè sulla strada del vino / Margreid an der Weinstrasse,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Magrè sulla strada del vino / Margreid an der Weinstrasse,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Magreglio,22030,Como,CO,Lombardia
 Maida,88025,Catanzaro,CZ,Calabria
 Maierà,null,Cosenza,CS,Calabria
@@ -3793,7 +3793,7 @@ Malgesso,21020,Varese,VA,Lombardia
 Malgrate,23864,Lecco,LC,Lombardia
 Malito,87030,Cosenza,CS,Calabria
 Mallare,17045,Savona,SV,Liguria
-Malles Venosta / Mals,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Malles Venosta / Mals,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Malnate,21046,Varese,VA,Lombardia
 Malo,36034,Vicenza,VI,Veneto
 Malonno,25040,Brescia,BS,Lombardia
@@ -3856,7 +3856,7 @@ Marcianise,81025,Caserta,CE,Campania
 Marciano della Chiana,52047,Arezzo,AR,Toscana
 Marcignago,27020,Pavia,PV,Lombardia
 Marcon,30020,Venezia,VE,Veneto
-Marebbe / Enneberg,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Marebbe / Enneberg,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Marene,12030,Cuneo,CN,Piemonte
 Mareno di Piave,31010,Treviso,TV,Veneto
 Marentino,10020,Torino,TO,Piemonte
@@ -3873,7 +3873,7 @@ Marigliano,80034,Napoli,NA,Campania
 Marina di Gioiosa Ionica,null,Reggio di Calabria,RC,Calabria
 Marineo,90035,Palermo,PA,Sicilia
 Marino,47,Roma,RM,Lazio
-Marlengo / Marling,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Marlengo / Marling,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Marliana,51010,Pistoia,PT,Toscana
 Marmentino,25060,Brescia,BS,Lombardia
 Marmirolo,42029,Mantova,MN,Lombardia
@@ -3892,7 +3892,7 @@ Marsicovetere,85050,Potenza,PZ,Basilicata
 Marta,1010,Viterbo,VT,Lazio
 Martano,73025,Lecce,LE,Puglia
 Martellago,30030,Venezia,VE,Veneto
-Martello / Martell,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Martello / Martell,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Martignacco,33035,Udine,UD,Friuli-Venezia Giulia
 Martignana di Po,26040,Cremona,CR,Lombardia
 Martignano,38040,Lecce,LE,Puglia
@@ -4004,7 +4004,7 @@ Melizzano,82030,Benevento,BN,Campania
 Melle,12020,Cuneo,CN,Piemonte
 Mello,23010,Sondrio,SO,Lombardia
 Melpignano,73020,Lecce,LE,Puglia
-Meltina / Moelten,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Meltina / Moelten,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Melzo,20066,Milano,MI,Lombardia
 Menaggio,22017,Como,CO,Lombardia
 Menarola,23022,Sondrio,SO,Lombardia
@@ -4015,7 +4015,7 @@ Menfi,92013,Agrigento,AG,Sicilia
 Mentana,13,Roma,RM,Lazio
 Meolo,30020,Venezia,VE,Veneto
 Merana,15010,Alessandria,AL,Piemonte
-Merano / Meran,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Merano / Meran,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Merate,23807,Lecco,LC,Lombardia
 Mercallo,21020,Varese,VA,Lombardia
 Mercatello sul Metauro,61040,Pesaro e Urbino,PU,Marche
@@ -4197,7 +4197,7 @@ Mongiardino Ligure,15060,Alessandria,AL,Piemonte
 Mongiuffi Melia,98030,Messina,ME,Sicilia
 Mongrando,13888,Biella,BI,Piemonte
 Mongrassano,87040,Cosenza,CS,Calabria
-Monguelfo-Tesido / Welsberg-Taisten,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Monguelfo-Tesido / Welsberg-Taisten,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Monguzzo,22040,Como,CO,Lombardia
 Moniga del Garda,25080,Brescia,BS,Lombardia
 Monleale,15059,Alessandria,AL,Piemonte
@@ -4216,7 +4216,7 @@ Montabone,14040,Asti,AT,Piemonte
 Montacuto,15050,Alessandria,AL,Piemonte
 Montafia,14014,Asti,AT,Piemonte
 Montagano,86023,Campobasso,CB,Molise
-Montagna / Montan,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Montagna / Montan,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Montagna in Valtellina,23020,Sondrio,SO,Lombardia
 Montagnana,35044,Padova,PD,Veneto
 Montagnareale,98060,Messina,ME,Sicilia
@@ -4523,7 +4523,7 @@ Moscazzano,26010,Cremona,CR,Lombardia
 Moschiano,83020,Avellino,AV,Campania
 Mosciano Sant'Angelo,64023,Teramo,TE,Abruzzo
 Moscufo,65010,Pescara,PE,Abruzzo
-Moso in Passiria / Moos in Passeier,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Moso in Passiria / Moos in Passeier,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Mossa,34070,Gorizia,GO,Friuli-Venezia Giulia
 Mossano,36024,Vicenza,VI,Veneto
 Mosso,null,Biella,BI,Piemonte
@@ -4572,7 +4572,7 @@ Mussomeli,93014,Caltanissetta,CL,Sicilia
 Muzzana del Turgnano,33055,Udine,UD,Friuli-Venezia Giulia
 Muzzano,13895,Biella,BI,Piemonte
 Nago-Torbole,null,Trento,TN,Trentino-Alto Adige
-Nalles / Nals,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Nalles / Nals,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Nanno,38010,Trento,TN,Trentino-Alto Adige
 Nanto,36024,Vicenza,VI,Veneto
 Napoli,80100,Napoli,NA,Campania
@@ -4585,11 +4585,11 @@ Naro,92028,Agrigento,AG,Sicilia
 Narzole,12068,Cuneo,CN,Piemonte
 Nasino,17030,Savona,SV,Liguria
 Naso,98074,Messina,ME,Sicilia
-Naturno / Naturns,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Naturno / Naturns,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Nave,25075,Brescia,BS,Lombardia
 Nave San Rocco,38010,Trento,TN,Trentino-Alto Adige
 Navelli,67020,L'Aquila,AQ,Abruzzo
-Naz-Sciaves / Natz-Schabs,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Naz-Sciaves / Natz-Schabs,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Nazzano,60,Roma,RM,Lazio
 Ne,16040,Genova,GE,Liguria
 Nebbiuno,28010,Novara,NO,Piemonte
@@ -4660,9 +4660,9 @@ Norma,4010,Latina,LT,Lazio
 Nosate,20020,Milano,MI,Lombardia
 Notaresco,64024,Teramo,TE,Abruzzo
 Noto,96017,Siracusa,SR,Sicilia
-Nova Levante / Welschnofen,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Nova Levante / Welschnofen,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Nova Milanese,20054,Monza e della Brianza,MB,Lombardia
-Nova Ponente / Deutschnofen,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Nova Ponente / Deutschnofen,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Nova Siri,75020,Matera,MT,Basilicata
 Novafeltria,61015,Rimini,RN,Emilia-Romagna
 Novaledo,38050,Trento,TN,Trentino-Alto Adige
@@ -4769,7 +4769,7 @@ Opi,67030,L'Aquila,AQ,Abruzzo
 Oppeano,37050,Verona,VR,Veneto
 Oppido Lucano,85015,Potenza,PZ,Basilicata
 Oppido Mamertina,89014,Reggio di Calabria,RC,Calabria
-Ora / Auer,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Ora / Auer,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Orani,8026,Nuoro,NU,Sardegna
 Oratino,86010,Campobasso,CB,Molise
 Orbassano,10043,Torino,TO,Piemonte
@@ -4814,7 +4814,7 @@ Orte,1028,Viterbo,VT,Lazio
 Ortelle,73030,Lecce,LE,Puglia
 Ortezzano,63020,Fermo,FM,Marche
 Ortignano Raggiolo,null,Arezzo,AR,Toscana
-Ortisei / St. Ulrich,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Ortisei / St. Ulrich,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Ortona,66026,Chieti,CH,Abruzzo
 Ortona dei Marsi,67050,L'Aquila,AQ,Abruzzo
 Ortonovo,19034,La Spezia,SP,Liguria
@@ -4976,7 +4976,7 @@ Papozze,45010,Rovigo,RO,Veneto
 Parabiago,20015,Milano,MI,Lombardia
 Parabita,73052,Lecce,LE,Puglia
 Paratico,25030,Brescia,BS,Lombardia
-Parcines / Partschins,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Parcines / Partschins,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Parè,null,Como,CO,Lombardia
 Parella,10010,Torino,TO,Piemonte
 Parenti,87040,Cosenza,CS,Calabria
@@ -5064,7 +5064,7 @@ Penne,65017,Pescara,PE,Abruzzo
 Pentone,88050,Catanzaro,CZ,Calabria
 Perano,66040,Chieti,CH,Abruzzo
 Perarolo di Cadore,32010,Belluno,BL,Veneto
-Perca / Percha,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Perca / Percha,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Percile,20,Roma,RM,Lazio
 Perdasdefogu,8046,Ogliastra,OG,Sardegna
 Perdaxius,9010,Carbonia-Iglesias,CI,Sardegna
@@ -5302,7 +5302,7 @@ Placanica,89040,Reggio di Calabria,RC,Calabria
 Plataci,87070,Cosenza,CS,Calabria
 Platania,88040,Catanzaro,CZ,Calabria
 Platì,null,Reggio di Calabria,RC,Calabria
-Plaus / Plaus,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Plaus / Plaus,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Plesio,22010,Como,CO,Lombardia
 Ploaghe,7017,Sassari,SS,Sardegna
 Plodio,17043,Savona,SV,Liguria
@@ -5391,7 +5391,7 @@ Ponte Buggianese,51019,Pistoia,PT,Toscana
 Ponte dell'Olio,29028,Piacenza,PC,Emilia-Romagna
 Ponte di Legno,25056,Brescia,BS,Lombardia
 Ponte di Piave,31047,Treviso,TV,Veneto
-Ponte Gardena / Waidbruck,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Ponte Gardena / Waidbruck,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Ponte in Valtellina,23026,Sondrio,SO,Lombardia
 Ponte Lambro,22037,Como,CO,Lombardia
 Ponte nelle Alpi,32014,Belluno,BL,Veneto
@@ -5474,7 +5474,7 @@ Positano,84017,Salerno,SA,Campania
 Possagno,31054,Treviso,TV,Veneto
 Posta,2019,Rieti,RI,Lazio
 Posta Fibreno,3030,Frosinone,FR,Lazio
-Postal / Burgstall,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Postal / Burgstall,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Postalesio,23010,Sondrio,SO,Lombardia
 Postiglione,84026,Salerno,SA,Campania
 Postua,13010,Vercelli,VC,Piemonte
@@ -5525,7 +5525,7 @@ Prata Sannita,81010,Caserta,CE,Campania
 Pratella,81010,Caserta,CE,Campania
 Pratiglione,10080,Torino,TO,Piemonte
 Prato,59100,Prato,PO,Toscana
-Prato allo Stelvio / Prad am Stilfser Joch,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Prato allo Stelvio / Prad am Stilfser Joch,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Prato Carnico,33020,Udine,UD,Friuli-Venezia Giulia
 Prato Sesia,28077,Novara,NO,Piemonte
 Pratola Peligna,67035,L'Aquila,AQ,Abruzzo
@@ -5539,7 +5539,7 @@ Precenicco,33050,Udine,UD,Friuli-Venezia Giulia
 Preci,6047,Perugia,PG,Umbria
 Predappio,47016,Forlì-Cesena,FC,Emilia-Romagna
 Predazzo,38037,Trento,TN,Trentino-Alto Adige
-Predoi / Prettau,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Predoi / Prettau,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Predore,24060,Bergamo,BG,Lombardia
 Predosa,15077,Alessandria,AL,Piemonte
 Preganziol,31022,Treviso,TV,Veneto
@@ -5581,7 +5581,7 @@ Proserpio,22030,Como,CO,Lombardia
 Prossedi,4010,Latina,LT,Lazio
 Provaglio d'Iseo,25050,Brescia,BS,Lombardia
 Provaglio Val Sabbia,25070,Brescia,BS,Lombardia
-Proves / Proveis,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Proves / Proveis,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Provvidenti,86040,Campobasso,CB,Molise
 Prunetto,12077,Cuneo,CN,Piemonte
 Puegnago sul Garda,null,Brescia,BS,Lombardia
@@ -5630,7 +5630,7 @@ Racale,73055,Lecce,LE,Puglia
 Racalmuto,92020,Agrigento,AG,Sicilia
 Racconigi,12035,Cuneo,CN,Piemonte
 Raccuja,98067,Messina,ME,Sicilia
-Racines / Ratschings,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Racines / Ratschings,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Radda in Chianti,53017,Siena,SI,Toscana
 Raddusa,95040,Catania,CT,Sicilia
 Radicofani,53040,Siena,SI,Toscana
@@ -5657,7 +5657,7 @@ Rapolano Terme,53040,Siena,SI,Toscana
 Rapolla,85027,Potenza,PZ,Basilicata
 Rapone,85020,Potenza,PZ,Basilicata
 Rassa,13020,Vercelli,VC,Piemonte
-Rasun Anterselva / Rasen-Antholz,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Rasun Anterselva / Rasen-Antholz,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Rasura,23010,Sondrio,SO,Lombardia
 Ravanusa,92029,Agrigento,AG,Sicilia
 Ravarino,41017,Modena,MO,Emilia-Romagna
@@ -5691,7 +5691,7 @@ Remanzacco,33047,Udine,UD,Friuli-Venezia Giulia
 Remedello,25010,Brescia,BS,Lombardia
 Renate,20055,Monza e della Brianza,MB,Lombardia
 Rende,87036,Cosenza,CS,Calabria
-Renon / Ritten,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Renon / Ritten,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Resana,31023,Treviso,TV,Veneto
 Rescaldina,20027,Milano,MI,Lombardia
 Resia,33010,Udine,UD,Friuli-Venezia Giulia
@@ -5726,7 +5726,7 @@ Ricigliano,84020,Salerno,SA,Campania
 Riese Pio X,31039,Treviso,TV,Veneto
 Riesi,93016,Caltanissetta,CL,Sicilia
 Rieti,2100,Rieti,RI,Lazio
-Rifiano / Riffian,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Rifiano / Riffian,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Rifreddo,85010,Cuneo,CN,Piemonte
 Rignano Flaminio,68,Roma,RM,Lazio
 Rignano Garganico,71010,Foggia,FG,Puglia
@@ -5736,7 +5736,7 @@ Rima San Giuseppe,13026,Vercelli,VC,Piemonte
 Rimasco,13026,Vercelli,VC,Piemonte
 Rimella,13020,Vercelli,VC,Piemonte
 Rimini,47900,Rimini,RN,Emilia-Romagna
-Rio di Pusteria / Muehlbach,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Rio di Pusteria / Muehlbach,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Rio Marina,57038,Livorno,LI,Toscana
 Rio nell'Elba,57039,Livorno,LI,Toscana
 Rio Saliceto,42010,Reggio nell'Emilia,RE,Emilia-Romagna
@@ -5888,7 +5888,7 @@ Rodano,20090,Milano,MI,Lombardia
 Roddi,12060,Cuneo,CN,Piemonte
 Roddino,12050,Cuneo,CN,Piemonte
 Rodello,12050,Cuneo,CN,Piemonte
-Rodengo / Rodeneck,39037,Bolzano / Bozen,null,Trentino-Alto Adige
+Rodengo / Rodeneck,39037,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Rodengo Saiano,25050,Brescia,BS,Lombardia
 Rodero,22070,Como,CO,Lombardia
 Rodi Garganico,71012,Foggia,FG,Puglia
@@ -6078,7 +6078,7 @@ Salizzole,37056,Verona,VR,Veneto
 Salle,65020,Pescara,PE,Abruzzo
 Salmour,12040,Cuneo,CN,Piemonte
 Salò,null,Brescia,BS,Lombardia
-Salorno / Salurn,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Salorno / Salurn,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Salsomaggiore Terme,43039,Parma,PR,Emilia-Romagna
 Saltara,61030,Pesaro e Urbino,PU,Marche
 Saltrio,21050,Varese,VA,Lombardia
@@ -6130,7 +6130,7 @@ San Biase,87030,Campobasso,CB,Molise
 San Bonifacio,37047,Verona,VR,Veneto
 San Buono,66050,Chieti,CH,Abruzzo
 San Calogero,89842,Vibo Valentia,VV,Calabria
-San Candido / Innichen,null,Bolzano / Bozen,null,Trentino-Alto Adige
+San Candido / Innichen,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 San Canzian d'Isonzo,34075,Gorizia,GO,Friuli-Venezia Giulia
 San Carlo Canavese,10070,Torino,TO,Piemonte
 San Casciano dei Bagni,53040,Siena,SI,Toscana
@@ -6191,7 +6191,7 @@ San Francesco al Campo,10070,Torino,TO,Piemonte
 San Fratello,98075,Messina,ME,Sicilia
 San Gavino Monreale,9037,Medio Campidano,VS,Sardegna
 San Gemini,5029,Terni,TR,Umbria
-San Genesio Atesino / Jenesien,null,Bolzano / Bozen,null,Trentino-Alto Adige
+San Genesio Atesino / Jenesien,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 San Genesio ed Uniti,27010,Pavia,PV,Lombardia
 San Gennaro Vesuviano,80040,Napoli,NA,Campania
 San Germano Chisone,10065,Torino,TO,Piemonte
@@ -6266,14 +6266,14 @@ San Gregorio nelle Alpi,32030,Belluno,BL,Veneto
 San Lazzaro di Savena,40068,Bologna,BO,Emilia-Romagna
 San Leo,61018,Rimini,RN,Emilia-Romagna
 San Leonardo,9075,Udine,UD,Friuli-Venezia Giulia
-San Leonardo in Passiria / St. Leonhard in Passeier,null,Bolzano / Bozen,null,Trentino-Alto Adige
+San Leonardo in Passiria / St. Leonhard in Passeier,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 San Leucio del Sannio,82010,Benevento,BN,Campania
 San Lorenzello,82030,Benevento,BN,Campania
 San Lorenzo,8020,Reggio di Calabria,RC,Calabria
 San Lorenzo al Mare,18017,Imperia,IM,Liguria
 San Lorenzo Bellizzi,87070,Cosenza,CS,Calabria
 San Lorenzo del Vallo,87040,Cosenza,CS,Calabria
-San Lorenzo di Sebato / St. Lorenzen,null,Bolzano / Bozen,null,Trentino-Alto Adige
+San Lorenzo di Sebato / St. Lorenzen,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 San Lorenzo in Banale,38078,Trento,TN,Trentino-Alto Adige
 San Lorenzo in Campo,61047,Pesaro e Urbino,PU,Marche
 San Lorenzo Isontino,34070,Gorizia,GO,Friuli-Venezia Giulia
@@ -6304,8 +6304,8 @@ San Martino del Lago,26040,Cremona,CR,Lombardia
 San Martino di Finita,87010,Cosenza,CS,Calabria
 San Martino di Lupari,35018,Padova,PD,Veneto
 San Martino di Venezze,45030,Rovigo,RO,Veneto
-San Martino in Badia / St. Martin in Thurn,null,Bolzano / Bozen,null,Trentino-Alto Adige
-San Martino in Passiria / St. Martin in Passeier,null,Bolzano / Bozen,null,Trentino-Alto Adige
+San Martino in Badia / St. Martin in Thurn,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
+San Martino in Passiria / St. Martin in Passeier,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 San Martino in Pensilis,86046,Campobasso,CB,Molise
 San Martino in Rio,42018,Reggio nell'Emilia,RE,Emilia-Romagna
 San Martino in Strada,26817,Lodi,LO,Lombardia
@@ -6348,7 +6348,7 @@ San Nicola Manfredi,82010,Benevento,BN,Campania
 San Nicolò d'Arcidano,null,Oristano,OR,Sardegna
 San Nicolò di Comelico,null,Belluno,BL,Veneto
 San Nicolò Gerrei,null,Cagliari,CA,Sardegna
-San Pancrazio / St. Pankraz,null,Bolzano / Bozen,null,Trentino-Alto Adige
+San Pancrazio / St. Pankraz,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 San Pancrazio Salentino,72026,Brindisi,BR,Puglia
 San Paolo,25020,Brescia,BS,Lombardia
 San Paolo Albanese,85030,Potenza,PZ,Basilicata
@@ -6554,7 +6554,7 @@ Santa Cesarea Terme,73020,Lecce,LE,Puglia
 Santa Cristina d'Aspromonte,89056,Reggio di Calabria,RC,Calabria
 Santa Cristina e Bissone,27010,Pavia,PV,Lombardia
 Santa Cristina Gela,90030,Palermo,PA,Sicilia
-Santa Cristina Valgardena / St. Christina in Groeden,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Santa Cristina Valgardena / St. Christina in Groeden,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Santa Croce Camerina,97017,Ragusa,RG,Sicilia
 Santa Croce del Sannio,82020,Benevento,BN,Campania
 Santa Croce di Magliano,86047,Campobasso,CB,Molise
@@ -6644,7 +6644,7 @@ Sarconi,85050,Potenza,PZ,Basilicata
 Sardara,9030,Medio Campidano,VS,Sardegna
 Sardigliano,15060,Alessandria,AL,Piemonte
 Sarego,36040,Vicenza,VI,Veneto
-Sarentino / Sarntal,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Sarentino / Sarntal,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Sarezzano,15050,Alessandria,AL,Piemonte
 Sarezzo,25068,Brescia,BS,Lombardia
 Sarmato,29010,Piacenza,PC,Emilia-Romagna
@@ -6718,7 +6718,7 @@ Scarlino,58020,Grosseto,GR,Toscana
 Scarmagno,10010,Torino,TO,Piemonte
 Scarnafigi,12030,Cuneo,CN,Piemonte
 Scarperia,50038,Firenze,FI,Toscana
-Scena / Schenna,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Scena / Schenna,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Scerni,66020,Chieti,CH,Abruzzo
 Scheggia e Pascelupo,null,Perugia,PG,Umbria
 Scheggino,6040,Perugia,PG,Umbria
@@ -6772,10 +6772,10 @@ Sellano,6030,Perugia,PG,Umbria
 Sellero,25050,Brescia,BS,Lombardia
 Sellia,88050,Catanzaro,CZ,Calabria
 Sellia Marina,88050,Catanzaro,CZ,Calabria
-Selva dei Molini / Muehlwald,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Selva dei Molini / Muehlwald,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Selva di Cadore,32020,Belluno,BL,Veneto
 Selva di Progno,37030,Verona,VR,Veneto
-Selva di Val Gardena / Wolkenstein in Groeden,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Selva di Val Gardena / Wolkenstein in Groeden,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Selvazzano Dentro,35030,Padova,PD,Veneto
 Selve Marcone,13811,Biella,BI,Piemonte
 Selvino,24020,Bergamo,BG,Lombardia
@@ -6784,8 +6784,8 @@ Semiana,27020,Pavia,PV,Lombardia
 Seminara,89028,Reggio di Calabria,RC,Calabria
 Semproniano,58055,Grosseto,GR,Toscana
 Senago,20030,Milano,MI,Lombardia
-Senale-San Felice / Unsere Liebe Frau im Walde-St. Felix,null,Bolzano / Bozen,null,Trentino-Alto Adige
-Senales / Schnals,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Senale-San Felice / Unsere Liebe Frau im Walde-St. Felix,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
+Senales / Schnals,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Seneghe,9070,Oristano,OR,Sardegna
 Senerchia,83050,Avellino,AV,Campania
 Seniga,25020,Brescia,BS,Lombardia
@@ -6852,7 +6852,7 @@ Sessame,14058,Asti,AT,Piemonte
 Sessano del Molise,86097,Isernia,IS,Molise
 Sesta Godano,19020,La Spezia,SP,Liguria
 Sestino,52038,Arezzo,AR,Toscana
-Sesto / Sexten,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Sesto / Sexten,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Sesto al Reghena,33079,Pordenone,PN,Friuli-Venezia Giulia
 Sesto Calende,21018,Varese,VA,Lombardia
 Sesto Campano,86078,Isernia,IS,Molise
@@ -6892,7 +6892,7 @@ Siderno,null,Reggio di Calabria,RC,Calabria
 Siena,53100,Siena,SI,Toscana
 Sigillo,6028,Perugia,PG,Umbria
 Signa,50058,Firenze,FI,Toscana
-Silandro / Schlanders,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Silandro / Schlanders,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Silanus,8017,Nuoro,NU,Sardegna
 Silea,31057,Treviso,TV,Veneto
 Siligo,7040,Sassari,SS,Sardegna
@@ -6927,7 +6927,7 @@ Sissa,43018,Parma,PR,Emilia-Romagna
 Siurgus Donigala,9040,Cagliari,CA,Sardegna
 Siziano,27010,Pavia,PV,Lombardia
 Sizzano,28070,Novara,NO,Piemonte
-Sluderno / Schluderns,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Sluderno / Schluderns,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Smarano,38010,Trento,TN,Trentino-Alto Adige
 Smerillo,63020,Fermo,FM,Marche
 Soave,37038,Verona,VR,Veneto
@@ -7071,7 +7071,7 @@ Stefanaconi,89843,Vibo Valentia,VV,Calabria
 Stella,17044,Savona,SV,Liguria
 Stella Cilento,84070,Salerno,SA,Campania
 Stellanello,17020,Savona,SV,Liguria
-Stelvio / Stilfs,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Stelvio / Stilfs,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Stenico,38070,Trento,TN,Trentino-Alto Adige
 Sternatia,73010,Lecce,LE,Puglia
 Stezzano,24040,Bergamo,BG,Lombardia
@@ -7198,14 +7198,14 @@ Teora,83056,Avellino,AV,Campania
 Teramo,64100,Teramo,TE,Abruzzo
 Terdobbiate,28070,Novara,NO,Piemonte
 Terelle,3040,Frosinone,FR,Lazio
-Terento / Terenten,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Terento / Terenten,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Terenzo,43040,Parma,PR,Emilia-Romagna
 Tergu,7030,Sassari,SS,Sardegna
 Terlago,38070,Trento,TN,Trentino-Alto Adige
-Terlano / Terlan,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Terlano / Terlan,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Terlizzi,70038,Bari,BA,Puglia
 Terme Vigliatore,98050,Messina,ME,Sicilia
-Termeno sulla strada del vino / Tramin an der Weinstrasse,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Termeno sulla strada del vino / Tramin an der Weinstrasse,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Termini Imerese,90018,Palermo,PA,Sicilia
 Termoli,86039,Campobasso,CB,Molise
 Ternate,21020,Varese,VA,Lombardia
@@ -7234,7 +7234,7 @@ Terzo d'Aquileia,null,Udine,UD,Friuli-Venezia Giulia
 Terzolas,38027,Trento,TN,Trentino-Alto Adige
 Terzorio,18010,Imperia,IM,Liguria
 Tesero,38038,Trento,TN,Trentino-Alto Adige
-Tesimo / Tisens,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Tesimo / Tisens,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Tessennano,1010,Viterbo,VT,Lazio
 Testico,17020,Savona,SV,Liguria
 Teti,8030,Nuoro,NU,Sardegna
@@ -7254,9 +7254,9 @@ Tinnura,8010,Oristano,OR,Sardegna
 Tione degli Abruzzi,67020,L'Aquila,AQ,Abruzzo
 Tione di Trento,38079,Trento,TN,Trentino-Alto Adige
 Tirano,23037,Sondrio,SO,Lombardia
-Tires / Tiers,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Tires / Tiers,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Tiriolo,88056,Catanzaro,CZ,Calabria
-Tirolo / Tirol,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Tirolo / Tirol,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Tissi,7040,Sassari,SS,Sardegna
 Tito,85050,Potenza,PZ,Basilicata
 Tivoli,19,Roma,RM,Lazio
@@ -7477,7 +7477,7 @@ Trivigliano,3010,Frosinone,FR,Lazio
 Trivignano Udinese,33050,Udine,UD,Friuli-Venezia Giulia
 Trivigno,85018,Potenza,PZ,Basilicata
 Trivolzio,27020,Pavia,PV,Lombardia
-Trodena nel parco naturale / Truden im Naturpark,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Trodena nel parco naturale / Truden im Naturpark,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Trofarello,10028,Torino,TO,Piemonte
 Troia,71029,Foggia,FG,Puglia
 Troina,94018,Enna,EN,Sicilia
@@ -7488,7 +7488,7 @@ Tronzano Vercellese,13049,Vercelli,VC,Piemonte
 Tropea,89861,Vibo Valentia,VV,Calabria
 Trovo,27020,Pavia,PV,Lombardia
 Truccazzano,20060,Milano,MI,Lombardia
-Tubre / Taufers im Muenstertal,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Tubre / Taufers im Muenstertal,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Tuenno,38019,Trento,TN,Trentino-Alto Adige
 Tufara,86010,Campobasso,CB,Molise
 Tufillo,66050,Chieti,CH,Abruzzo
@@ -7518,7 +7518,7 @@ Uggiano la Chiesa,73020,Lecce,LE,Puglia
 Uggiate-Trevano,null,Como,CO,Lombardia
 Ulà Tirso,9080,Oristano,OR,Sardegna
 Ulassai,8040,Ogliastra,OG,Sardegna
-Ultimo / Ulten,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Ultimo / Ulten,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Umbertide,6019,Perugia,PG,Umbria
 Umbriatico,88823,Crotone,KR,Calabria
 Urago d'Oglio,25030,Brescia,BS,Lombardia
@@ -7548,7 +7548,7 @@ Uzzano,null,Pistoia,PT,Toscana
 Vaccarizzo Albanese,87060,Cosenza,CS,Calabria
 Vacone,2040,Rieti,RI,Lazio
 Vacri,66010,Chieti,CH,Abruzzo
-Vadena / Pfatten,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Vadena / Pfatten,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Vado Ligure,17047,Savona,SV,Liguria
 Vagli Sotto,55030,Lucca,LU,Toscana
 Vaglia,50030,Firenze,FI,Toscana
@@ -7562,7 +7562,7 @@ Vairano Patenora,81058,Caserta,CE,Campania
 Vajont,null,Pordenone,PN,Friuli-Venezia Giulia
 Val della Torre,10040,Torino,TO,Piemonte
 Val di Nizza,27050,Pavia,PV,Lombardia
-Val di Vizze / Pfitsch,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Val di Vizze / Pfitsch,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Val Masino,23010,Sondrio,SO,Lombardia
 Val Rezzo,22010,Como,CO,Lombardia
 Valbondione,24020,Bergamo,BG,Lombardia
@@ -7571,7 +7571,7 @@ Valbrevenna,16010,Genova,GE,Liguria
 Valbrona,22039,Como,CO,Lombardia
 Valda,38030,Trento,TN,Trentino-Alto Adige
 Valdagno,36078,Vicenza,VI,Veneto
-Valdaora / Olang,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Valdaora / Olang,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Valdastico,36040,Vicenza,VI,Veneto
 Valdengo,13855,Biella,BI,Piemonte
 Valderice,91019,Trapani,TP,Sicilia
@@ -7603,11 +7603,11 @@ Vallanzengo,13847,Biella,BI,Piemonte
 Vallarsa,38060,Trento,TN,Trentino-Alto Adige
 Vallata,83059,Avellino,AV,Campania
 Valle Agricola,81010,Caserta,CE,Campania
-Valle Aurina / Ahrntal,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Valle Aurina / Ahrntal,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Valle Castellana,64010,Teramo,TE,Abruzzo
 Valle dell'Angelo,84070,Salerno,SA,Campania
 Valle di Cadore,32040,Belluno,BL,Veneto
-Valle di Casies / Gsies,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Valle di Casies / Gsies,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Valle di Maddaloni,81020,Caserta,CE,Campania
 Valle Lomellina,27020,Pavia,PV,Lombardia
 Valle Mosso,13825,Biella,BI,Piemonte
@@ -7659,7 +7659,7 @@ Valvasone,33098,Pordenone,PN,Friuli-Venezia Giulia
 Valverde,27050,Catania,CT,Sicilia
 Valverde,27050,Pavia,PV,Lombardia
 Valvestino,25080,Brescia,BS,Lombardia
-Vandoies / Vintl,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Vandoies / Vintl,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Vanzaghello,20020,Milano,MI,Lombardia
 Vanzago,20010,Milano,MI,Lombardia
 Vanzone con San Carlo,28879,Verbano-Cusio-Ossola,VB,Piemonte
@@ -7679,7 +7679,7 @@ Varese,21100,Varese,VA,Lombardia
 Varese Ligure,19028,La Spezia,SP,Liguria
 Varisella,10070,Torino,TO,Piemonte
 Varmo,33030,Udine,UD,Friuli-Venezia Giulia
-Varna / Vahrn,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Varna / Vahrn,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Varsi,43049,Parma,PR,Emilia-Romagna
 Varzi,27057,Pavia,PV,Lombardia
 Varzo,28868,Verbano-Cusio-Ossola,VB,Piemonte
@@ -7709,7 +7709,7 @@ Velletri,49,Roma,RM,Lazio
 Vellezzo Bellini,27010,Pavia,PV,Lombardia
 Velo d'Astico,36010,Vicenza,VI,Veneto
 Velo Veronese,37030,Verona,VR,Veneto
-Velturno / Feldthurns,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Velturno / Feldthurns,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Venafro,86079,Isernia,IS,Molise
 Venaria Reale,null,Torino,TO,Piemonte
 Venarotta,63040,Ascoli Piceno,AP,Marche
@@ -7728,7 +7728,7 @@ Ventimiglia,18039,Imperia,IM,Liguria
 Ventimiglia di Sicilia,90020,Palermo,PA,Sicilia
 Ventotene,4020,Latina,LT,Lazio
 Venzone,33010,Udine,UD,Friuli-Venezia Giulia
-Verano / Voeran,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Verano / Voeran,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Verano Brianza,20050,Monza e della Brianza,MB,Lombardia
 Verbania,28900,Verbano-Cusio-Ossola,VB,Piemonte
 Verbicaro,87020,Cosenza,CS,Calabria
@@ -7892,7 +7892,7 @@ Villa Santina,33029,Udine,UD,Friuli-Venezia Giulia
 Villa Santo Stefano,3020,Frosinone,FR,Lazio
 Villa Verde,9090,Oristano,OR,Sardegna
 Villa Vicentina,33059,Udine,UD,Friuli-Venezia Giulia
-Villabassa / Niederdorf,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Villabassa / Niederdorf,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Villabate,90039,Palermo,PA,Sicilia
 Villachiara,25030,Brescia,BS,Lombardia
 Villacidro,9039,Medio Campidano,VS,Sardegna
@@ -7920,7 +7920,7 @@ Villamar,9020,Medio Campidano,VS,Sardegna
 Villamarzana,45030,Rovigo,RO,Veneto
 Villamassargia,9010,Carbonia-Iglesias,CI,Sardegna
 Villamiroglio,15020,Alessandria,AL,Piemonte
-Villandro / Villanders,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Villandro / Villanders,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Villanova Biellese,13877,Biella,BI,Piemonte
 Villanova Canavese,10070,Torino,TO,Piemonte
 Villanova d'Albenga,17038,Savona,SV,Liguria
@@ -7984,7 +7984,7 @@ Vinovo,10048,Torino,TO,Piemonte
 Vinzaglio,28060,Novara,NO,Piemonte
 Viola,12070,Cuneo,CN,Piemonte
 Vione,25050,Brescia,BS,Lombardia
-Vipiteno / Sterzing,null,Bolzano / Bozen,null,Trentino-Alto Adige
+Vipiteno / Sterzing,null,Bolzano / Bozen,BZ,Trentino-Alto Adige
 Virgilio,46030,Mantova,MN,Lombardia
 Virle Piemonte,10060,Torino,TO,Piemonte
 Visano,25010,Brescia,BS,Lombardia
