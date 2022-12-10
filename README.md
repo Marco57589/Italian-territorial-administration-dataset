@@ -8,6 +8,9 @@ The dataset is available in:
 - CSV 'Coma Separated Values'<br />
 - ... more coming soon<br />
 
+
+Note: some zip codes are not in the dataset and have been marked as NULL (these will be updated in the future)
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
