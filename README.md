@@ -1,7 +1,7 @@
 # Italian-territorial-administration-dataset
 
 Italian territorial and administrative subdivision dataset
-(CAP-CITY) -> PROVINCE -> REGION
+(CITY / ZIP N°) -> PROVINCE -> REGION
 
 The dataset is available in:
 - XLSX <br />
